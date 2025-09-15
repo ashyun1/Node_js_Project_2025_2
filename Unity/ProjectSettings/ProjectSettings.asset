@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: c657c5c4df0303141bb3d7cc5e57754c
+  productGUID: a17d9af2656701e47b8784075b37b7be
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Node_project
+  productName: Node project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -681,14 +681,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Node_project
+  metroPackageName: Node project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Node_project
+  metroApplicationDescription: Node project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -758,10 +758,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b000cd1e-3fc2-4e9c-bc63-14d16b78ffee
+  cloudProjectId: 1cad8c7e-5957-46cb-81df-5798964d57f8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Node_project
+  projectName: Node project
   organizationId: ashyun
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
