@@ -42,7 +42,7 @@ public class GameAPI : MonoBehaviour
     //플레이어 로그인 메서드
     public IEnumerator LoginPlayer(string playerName, string password , Action<PlayerModel> onSuccess)
     {
-        var requsetData = new { name = playerName, Password = password };
+        var requsetData = new { name = playerName, password = password };
         string jsonData = JsonConvert.SerializeObject(requsetData);
 
         using (UnityWebRequest request = new UnityWebRequest($"{baseUrl}/login", "POST"))
